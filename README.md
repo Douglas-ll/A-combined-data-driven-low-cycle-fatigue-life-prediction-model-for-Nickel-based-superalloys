@@ -1,2 +1,2 @@
 # A-combined-data-driven-low-cycle-fatigue-life-prediction-model-for-Nickel-based-superalloys
-Here is the code related to PCC and MIC calculation and the original data set, the rest of the model code if you need to contact my email
+Please find the provided code and original dataset below, which are related to the PCC and MIC calculations, as well as the implementation of the GA-RF model, considered the best model in our study. To replicate our study, it is necessary to begin by performing feature filtering. Afterwards, you will need to construct three datasets on your own and proceed with training the model using these datasets.
